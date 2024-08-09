@@ -276,7 +276,7 @@ h2 {
 /* footer-wrapper */
 
 /* ========= responsiveness breakpoints =========  */
-@media screen and (max-width: 376px) {
+@media screen and (min-width: 376px) {
   body {
     width: 100%;
   }
