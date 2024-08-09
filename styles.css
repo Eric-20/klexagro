@@ -701,7 +701,7 @@ h2 {
   }
 }
 
-/* @media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
   body {
     width: 100%;
     height: auto;
@@ -963,4 +963,4 @@ h2 {
     transition: all ease-in 0.2s;
   }
   /* footer-wrapper */
-} */
+}
