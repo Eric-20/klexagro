@@ -276,7 +276,7 @@ h2 {
 /* footer-wrapper */
 
 /* ========= responsiveness breakpoints =========  */
-@media screen and (min-width: 376px) {
+@media screen and (max-width: 376px) {
   body {
     width: 100%;
   }
@@ -424,6 +424,7 @@ h2 {
   .hero-content p {
     text-align: center;
     font-size: 16px;
+    width: 100%;
   }
 
   .navigation-wrapper {
@@ -700,7 +701,7 @@ h2 {
   }
 }
 
-@media screen and (min-width: 1200px) {
+/* @media screen and (min-width: 1200px) {
   body {
     width: 100%;
     height: auto;
@@ -962,4 +963,4 @@ h2 {
     transition: all ease-in 0.2s;
   }
   /* footer-wrapper */
-}
+} */
